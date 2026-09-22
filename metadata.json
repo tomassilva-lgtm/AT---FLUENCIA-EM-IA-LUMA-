@@ -1,0 +1,7 @@
+{
+  "name": "LUMA",
+  "description": "Luz. Cor. Detalhe. Experiência de edição e color grading de imagem e vídeo com foco em precisão, simplicidade e beleza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
